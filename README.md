@@ -1,8 +1,8 @@
 ![MasterHead](https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5)
+
 <h1 align="center">Hi 👋, I'm Mohammed Idriss</h1>
 <h3 align="center">A Python Developer with a Passion for AI and Machine Learning</h3>
 
-<p align="left"> <img src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
